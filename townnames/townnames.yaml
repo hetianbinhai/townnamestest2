@@ -1,0 +1,258 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: '@Prefix'
+    probability: 10
+  - name: '@Real'
+    probability: 90
+- names:
+  - name: '@Main'
+    probability: 8
+  - name: '@Suffix'
+    probability: 1
+name: Townnames
+source: null
+subsets:
+- name: Prefix
+  parts:
+  - names:
+    - name: Bei
+      probability: 1
+    - name: Nan
+      probability: 1
+    - name: Xi
+      probability: 1
+    - name: Dong
+      probability: 1
+    - name: Zhong
+      probability: 1
+    - name: Ping
+      probability: 1
+    - name: Jian
+      probability: 1
+    - name: Qing
+      probability: 1
+    - name: Chi
+      probability: 1
+    - name: Da
+      probability: 1
+    - name: Bai
+      probability: 1
+    - name: Gu
+      probability: 1
+    - name: Gao
+      probability: 1
+    - name: Shang
+      probability: 1
+    - name: Xia
+      probability: 1
+    - name: Guang
+      probability: 1
+    - name: San
+      probability: 1
+    - name: Wu
+      probability: 1
+    - name: Qian
+      probability: 1
+    - name: Hou
+      probability: 1
+  - names:
+    - name: '@Main'
+      probability: 1
+- name: Main
+  parts:
+  - names:
+    - name: long
+      probability: 1
+    - name: yi
+      probability: 1
+    - name: jing
+      probability: 1
+    - name: yang
+      probability: 1
+    - name: shan
+      probability: 1
+    - name: chong
+      probability: 1
+    - name: hai
+      probability: 1
+    - name: chang
+      probability: 1
+    - name: de
+      probability: 1
+    - name: yuan
+      probability: 1
+    - name: ru
+      probability: 1
+    - name: ming
+      probability: 1
+    - name: chao
+      probability: 1
+    - name: tong
+      probability: 1
+    - name: xian
+      probability: 1
+    - name: ma
+      probability: 1
+    - name: ting
+      probability: 1
+    - name: ya
+      probability: 1
+    - name: chuan
+      probability: 1
+    - name: fu
+      probability: 1
+    - name: he
+      probability: 1
+    - name: wu
+      probability: 1
+    - name: she
+      probability: 1
+    - name: li
+      probability: 1
+    - name: zhong
+      probability: 1
+    - name: lang
+      probability: 1
+    - name: jiao
+      probability: 1
+    - name: sha
+      probability: 1
+    - name: liu
+      probability: 1
+    - name: teng
+      probability: 1
+    - name: cui
+      probability: 1
+    - name: yue
+      probability: 1
+    - name: sheng
+      probability: 1
+    - name: guan
+      probability: 1
+  - names: []
+- name: Suffix
+  parts:
+  - names:
+    - name: zhou
+      probability: 1
+    - name: zhen
+      probability: 1
+    - name: shi
+      probability: 1
+    - name: du
+      probability: 1
+    - name: jing
+      probability: 1
+    - name: xian
+      probability: 1
+    - name: qu
+      probability: 1
+    - name: jie
+      probability: 1
+    - name: dian
+      probability: 1
+    - name: xiang
+      probability: 1
+    - name: cun
+      probability: 1
+    - name: lin
+      probability: 1
+    - name: bei
+      probability: 1
+    - name: nan
+      probability: 1
+    - name: dong
+      probability: 1
+    - name: xi
+      probability: 1
+    - name: zhong
+      probability: 1
+    - name: wei
+      probability: 1
+    - name: wan
+      probability: 1
+    - name: jiao
+      probability: 1
+    - name: bu
+      probability: 1
+    - name: hai
+      probability: 1
+    - name: '@Main'
+      probability: 1
+- name: Real
+  parts:
+  - names:
+    - name: He
+      probability: 1
+    - name: Wu
+      probability: 1
+    - name: Liao
+      probability: 1
+    - name: Qian
+      probability: 1
+    - name: Qing
+      probability: 1
+    - name: Chu
+      probability: 1
+    - name: Jiang
+      probability: 1
+    - name: Shan
+      probability: 1
+    - name: Yang
+      probability: 1
+    - name: Liao
+      probability: 1
+    - name: Zhao
+      probability: 1
+    - name: Zhu
+      probability: 1
+    - name: Mian
+      probability: 1
+    - name: Sui
+      probability: 1
+    - name: Jiu
+      probability: 1
+    - name: Yi
+      probability: 1
+    - name: Su
+      probability: 1
+    - name: An
+      probability: 1
+    - name: Ming
+      probability: 1
+    - name: Kai
+      probability: 1
+    - name: Ji
+      probability: 1
+    - name: Hui
+      probability: 1
+    - name: Tian
+      probability: 1
+    - name: Tang
+      probability: 1
+    - name: Ye
+      probability: 1
+    - name: Jie
+      probability: 1
+    - name: Tong
+      probability: 1
+    - name: Wei
+      probability: 1
+    - name: Luo
+      probability: 1
+    - name: Jiao
+      probability: 1
+    - name: Hong
+      probability: 1
+    - name: Yuan
+      probability: 1
+    - name: Li
+      probability: 1
+    - name: Tan
+      probability: 1
+    - name: Gui
+      probability: 1
+    - name: Ban
+      probability: 1
