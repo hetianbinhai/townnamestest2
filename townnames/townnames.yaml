@@ -3,14 +3,14 @@ id: 0
 mainset:
 - names:
   - name: '@Prefix'
-    probability: 10
+    probability: 15
   - name: '@Real'
-    probability: 90
+    probability: 85
 - names:
   - name: '@Main'
     probability: 8
   - name: '@Suffix'
-    probability: 1
+    probability: 2
 - names: []
 name: Townnames
 source: null
